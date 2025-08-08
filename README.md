@@ -1,0 +1,14 @@
+# user 15 AP3A.240905.015.A2 1752220981 release-keys
+- manufacturer: gigaset
+- platform: common
+- codename: GS6_Venus
+- flavor: user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: 1752220981
+- tags: release-keys
+- fingerprint: Gigaset/GS6_Venus_EEA/GS6_Venus:15/AP3A.240905.015.A2/1752220981:user/release-keys
+- is_ab: true
+- brand: Gigaset
+- branch: user-15-AP3A.240905.015.A2-1752220981-release-keys
+- repo: gigaset_gs6_venus_dump
