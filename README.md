@@ -1,0 +1,14 @@
+# ansuz-user 15 BP1A.250505.005 44-volla-15.0 release-keys
+- manufacturer: gigaset
+- platform: common
+- codename: GS6_Venus
+- flavor: ansuz-user
+- release: 15
+- id: BP1A.250505.005
+- incremental: 44-volla-15.0
+- tags: release-keys
+- fingerprint: Gigaset/GS6_Venus_EEA/GS6_Venus:15/AP3A.240905.015.A2/1:user/release-keys
+- is_ab: true
+- brand: Gigaset
+- branch: ansuz-user-15-BP1A.250505.005-44-volla-15.0-release-keys
+- repo: gigaset_gs6_venus_dump
